@@ -12,10 +12,6 @@ A simple Python application that fetches and displays random inspirational quote
 - Easy-to-use: Just click a button to get a new quote.
 - Perfect for daily inspiration and sharing wisdom with others.
 
-## Screenshots
-
-![Screenshot](screenshot.png)
-
 ## Installation
 
 1. Clone this repository:
